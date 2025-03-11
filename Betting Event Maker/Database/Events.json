@@ -29,5 +29,19 @@
     ],
     "EventResult": "Canceled",
     "Type": "Football"
+  },
+  {
+    "Id": "bca3a3c9-ea6d-465e-abc9-552cee1b90d2",
+    "EventName": "HistoryBattle",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 0.992494587119675,
+    "AwayWinChance": 0.0021925775050099137509429997,
+    "DrawChance": 0.0053128353753150862490570003,
+    "EventStartDate": "2025-03-11T17:17:02",
+    "EventEndDate": "2025-01-11T00:00:00",
+    "EventSubscribers": [],
+    "EventResult": "Canceled",
+    "Type": "Football"
   }
 ]

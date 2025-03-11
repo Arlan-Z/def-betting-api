@@ -8,6 +8,9 @@ builder.Services.AddSingleton<JsonFileService>();
 builder.Services.AddSingleton<EventService>();
 builder.Services.AddHttpClient<EventService>();
 
+builder.Services.AddHostedService<EventClosingBackgroundService>();
+builder.Services.AddHttpClient<EventClosingBackgroundService>();
+
 builder.Services.AddControllers();
 builder.Services.AddMvc(options =>
 {
