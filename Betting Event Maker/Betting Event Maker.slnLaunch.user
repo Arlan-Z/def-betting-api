@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Testing Profile",
+    "Projects": [
+      {
+        "Path": "Betting Event Maker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Event Subscription Test\\Event Subscription Test.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

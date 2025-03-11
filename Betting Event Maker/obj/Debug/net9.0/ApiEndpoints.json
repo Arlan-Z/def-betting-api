@@ -1,0 +1,171 @@
+[
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "GetEventAsync",
+    "RelativePath": "api/Events/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "CancelEvent",
+    "RelativePath": "api/Events/{id}/cancel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "DeleteEvent",
+    "RelativePath": "api/Events/{id}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "GetEventDetails",
+    "RelativePath": "api/Events/{id}/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "UpdateEventDetails",
+    "RelativePath": "api/Events/{id}/details",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "detailUpdateDto",
+        "Type": "Betting_Event_Maker.Dtos.EventDetailUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "CreateEventDetail",
+    "RelativePath": "api/Events/{id}/details/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "detailDto",
+        "Type": "Betting_Event_Maker.Dtos.EventDetailCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "EndEvent",
+    "RelativePath": "api/Events/{id}/end",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "SubscribeToEvent",
+    "RelativePath": "api/Events/{id}/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "eventSubDto",
+        "Type": "Betting_Event_Maker.Dtos.EventSubscribeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "ListAllEvents",
+    "RelativePath": "api/Events/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.EventsController",
+    "Method": "CreateEventAsync",
+    "RelativePath": "api/Events/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventCreateDto",
+        "Type": "Betting_Event_Maker.Dtos.EventCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

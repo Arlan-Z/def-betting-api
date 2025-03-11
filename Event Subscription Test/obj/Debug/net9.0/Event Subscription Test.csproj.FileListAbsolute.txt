@@ -1,0 +1,14 @@
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\bin\Debug\net9.0\Event Subscription Test.exe
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\bin\Debug\net9.0\Event Subscription Test.deps.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\bin\Debug\net9.0\Event Subscription Test.runtimeconfig.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\bin\Debug\net9.0\Event Subscription Test.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\bin\Debug\net9.0\Event Subscription Test.pdb
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.AssemblyInfoInputs.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.AssemblyInfo.cs
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.csproj.CoreCompileInputs.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\refint\Event Subscription Test.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.pdb
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\Event Subscription Test.genruntimeconfig.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Event Subscription Test\obj\Debug\net9.0\ref\Event Subscription Test.dll

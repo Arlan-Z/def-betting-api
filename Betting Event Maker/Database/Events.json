@@ -1,0 +1,33 @@
+[
+  {
+    "Id": "0bd40672-07e4-443c-b440-eff7392a10f2",
+    "EventName": "HistoryBattle Take 2",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 20.589040410579290094798968880,
+    "AwayWinChance": 40.789581141874437126307922550,
+    "DrawChance": 38.621378447546272778893108570,
+    "EventStartDate": "2025-03-11T16:16:31",
+    "EventEndDate": "2025-04-11T00:00:00",
+    "EventSubscribers": [],
+    "EventResult": "AwayWin",
+    "Type": "Football"
+  },
+  {
+    "Id": "167c0d85-aade-4b9d-96af-92f4aa407469",
+    "EventName": "HistoryBattle",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 0.00292671046931636,
+    "AwayWinChance": 0.2973913305520392670449896695,
+    "DrawChance": 0.6996819589786443729550103305,
+    "EventStartDate": "2025-03-11T16:24:40",
+    "EventEndDate": "2025-04-11T00:00:00",
+    "EventSubscribers": [
+      "Example.com",
+      "http://localhost:5000/"
+    ],
+    "EventResult": "Canceled",
+    "Type": "Football"
+  }
+]

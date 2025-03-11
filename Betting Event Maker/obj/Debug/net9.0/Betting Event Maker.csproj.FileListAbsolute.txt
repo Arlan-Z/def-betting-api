@@ -1,0 +1,31 @@
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\appsettings.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Database\EventDetails.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Database\Events.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.staticwebassets.endpoints.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.exe
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.deps.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.runtimeconfig.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Betting Event Maker.pdb
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.AssemblyInfoInputs.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.AssemblyInfo.cs
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.csproj.CoreCompileInputs.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\scopedcss\bundle\Betting Event Maker.styles.css
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets\msbuild.Betting Event Maker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets\msbuild.Betting Event Maker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets\msbuild.build.Betting Event Maker.props
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Betting Event Maker.props
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Betting Event Maker.props
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\refint\Betting Event Maker.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.pdb
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.genruntimeconfig.cache
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\ref\Betting Event Maker.dll
