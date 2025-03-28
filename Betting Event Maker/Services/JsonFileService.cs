@@ -8,6 +8,51 @@ namespace Betting_Event_Maker.Services
     {
         private readonly string _eventsFilePath = "Database/Events.json";
         private readonly string _eventDetailsFilePath = "Database/EventDetails.json";
+        private readonly string _filePath = "Database/CardsInfo.json";
+
+        public List<PaymentCard> LoadCards()
+        {
+            if (!File.Exists(_filePath))
+            {
+                return new List<PaymentCard>();
+            }
+
+            try
+            {
+                string json = File.ReadAllText(_filePath);
+                return JsonSerializer.Deserialize<List<PaymentCard>>(json, new JsonSerializerOptions
+                {
+                    Converters = { new DateTimeConverterUsingDateTimeParse() }
+                }) ?? new List<PaymentCard>();
+            }
+            catch (JsonException ex)
+            {
+                Console.WriteLine($"Error deserializing JSON: {ex.Message}");
+                return new List<PaymentCard>();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error loading cards: {ex.Message}");
+                return new List<PaymentCard>();
+            }
+        }
+
+        public void SaveCards(List<PaymentCard> cards)
+        {
+            try
+            {
+                string json = JsonSerializer.Serialize(cards, new JsonSerializerOptions
+                {
+                    WriteIndented = true,
+                    Converters = { new DateTimeConverterUsingDateTimeParse() }
+                });
+                File.WriteAllText(_filePath, json);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error saving cards: {ex.Message}");
+            }
+        }
 
         public async Task<List<Event>> LoadEventsAsync()
         {

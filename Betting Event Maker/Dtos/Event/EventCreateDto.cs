@@ -1,7 +1,7 @@
 ﻿using Betting_Event_Maker.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace Betting_Event_Maker.Dtos
+namespace Betting_Event_Maker.Dtos.Event
 {
     public class EventCreateDto
     {

@@ -1,8 +1,7 @@
 ﻿using Betting_Event_Maker.Models;
-using System.Net.Http;
 using System.Text.Json;
 using System.Text;
-using Betting_Event_Maker.Dtos;
+using Betting_Event_Maker.Dtos.Event;
 
 namespace Betting_Event_Maker.Services
 {

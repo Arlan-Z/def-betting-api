@@ -59,7 +59,7 @@ namespace Betting_Event_Maker.Services
                 if (eventsToClose.Count == 0) return;
 
                 var client = _httpClientFactory.CreateClient();
-                client.BaseAddress = new Uri("http://localhost:5283"); // TODO change to launchsetting args
+                client.BaseAddress = new Uri("http://localhost:5283"); // TODO: change to launchsetting args
                 foreach (var eventToClose in eventsToClose)
                 {
 

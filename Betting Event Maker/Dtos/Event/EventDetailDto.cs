@@ -1,6 +1,6 @@
 ﻿using Betting_Event_Maker.Enums;
 
-namespace Betting_Event_Maker.Dtos
+namespace Betting_Event_Maker.Dtos.Event
 {
     public class EventDetailDto
     {

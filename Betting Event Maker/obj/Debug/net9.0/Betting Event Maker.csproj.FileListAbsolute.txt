@@ -30,3 +30,4 @@ C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting E
 C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.genruntimeconfig.cache
 C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\ref\Betting Event Maker.dll
 C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Debug\net9.0\Betting Event Maker.sourcelink.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\bin\Debug\net9.0\Database\CardsInfo.json

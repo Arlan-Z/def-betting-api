@@ -1,4 +1,4 @@
-﻿using Betting_Event_Maker.Dtos;
+﻿using Betting_Event_Maker.Dtos.Event;
 using Betting_Event_Maker.Models;
 using Betting_Event_Maker.Services;
 using Microsoft.AspNetCore.Mvc;

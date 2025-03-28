@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Event Subscription Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a82c58bd5ee6accd98fa1c5f9a0717c84f140d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Event Subscription Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Event Subscription Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

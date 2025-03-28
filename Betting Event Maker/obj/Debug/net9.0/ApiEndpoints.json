@@ -78,7 +78,7 @@
       },
       {
         "Name": "detailUpdateDto",
-        "Type": "Betting_Event_Maker.Dtos.EventDetailUpdateDto",
+        "Type": "Betting_Event_Maker.Dtos.Event.EventDetailUpdateDto",
         "IsRequired": true
       }
     ],
@@ -99,7 +99,7 @@
       },
       {
         "Name": "detailDto",
-        "Type": "Betting_Event_Maker.Dtos.EventDetailCreateDto",
+        "Type": "Betting_Event_Maker.Dtos.Event.EventDetailCreateDto",
         "IsRequired": true
       }
     ],
@@ -136,7 +136,7 @@
       },
       {
         "Name": "eventSubDto",
-        "Type": "Betting_Event_Maker.Dtos.EventSubscribeDto",
+        "Type": "Betting_Event_Maker.Dtos.Event.EventSubscribeDto",
         "IsRequired": true
       }
     ],
@@ -162,7 +162,71 @@
     "Parameters": [
       {
         "Name": "eventCreateDto",
-        "Type": "Betting_Event_Maker.Dtos.EventCreateDto",
+        "Type": "Betting_Event_Maker.Dtos.Event.EventCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.PaymentController",
+    "Method": "AddMoney",
+    "RelativePath": "api/Payment/addMoney",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "Betting_Event_Maker.Dtos.Cards.CardAddMoneyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.PaymentController",
+    "Method": "GetCardNumber",
+    "RelativePath": "api/Payment/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentialsDto",
+        "Type": "Betting_Event_Maker.Dtos.Cards.CardCredentialsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.PaymentController",
+    "Method": "CardPayment",
+    "RelativePath": "api/Payment/pay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentDto",
+        "Type": "Betting_Event_Maker.Dtos.Cards.CardPaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Betting_Event_Maker.Controllers.PaymentController",
+    "Method": "RegisterCard",
+    "RelativePath": "api/Payment/registerCard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "Betting_Event_Maker.Dtos.Cards.CardRegisterDto",
         "IsRequired": true
       }
     ],
