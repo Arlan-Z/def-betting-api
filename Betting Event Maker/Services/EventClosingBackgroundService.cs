@@ -8,21 +8,23 @@ namespace Betting_Event_Maker.Services
         private readonly IServiceProvider _services;
         private readonly TimeSpan _checkInterval = TimeSpan.FromMinutes(1);
         private readonly IHttpClientFactory _httpClientFactory;
+        private readonly IConfiguration _configuration;
 
         public EventClosingBackgroundService(
             ILogger<EventClosingBackgroundService> logger,
             IServiceProvider services,
-            IHttpClientFactory httpClientFactory)
+            IHttpClientFactory httpClientFactory,
+            IConfiguration configuration)
         {
             _logger = logger;
             _services = services;
             _httpClientFactory = httpClientFactory;
+            _configuration = configuration;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             _logger.LogInformation("EventClosingBackgroundService is starting.");
-
             while (!stoppingToken.IsCancellationRequested)
             {
                 try
@@ -59,7 +61,7 @@ namespace Betting_Event_Maker.Services
                 if (eventsToClose.Count == 0) return;
 
                 var client = _httpClientFactory.CreateClient();
-                client.BaseAddress = new Uri("http://localhost:5283"); // TODO: change to launchsetting args
+                client.BaseAddress = new Uri(_configuration.GetValue<string>("ApiSettings:BaseUrl") ?? throw new ArgumentNullException("BaseUrl is Null")); // TODO: change to launchsetting args
                 foreach (var eventToClose in eventsToClose)
                 {
 

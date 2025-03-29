@@ -1,0 +1,63 @@
+[
+  {
+    "Id": "0bd40672-07e4-443c-b440-eff7392a10f2",
+    "EventName": "HistoryBattle Take 2",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 20.589040410579290094798968880,
+    "AwayWinChance": 40.789581141874437126307922550,
+    "DrawChance": 38.621378447546272778893108570,
+    "EventStartDate": "2025-03-11T16:16:31",
+    "EventEndDate": "2025-04-11T00:00:00",
+    "EventSubscribers": [],
+    "EventResult": "AwayWin",
+    "Type": "Football"
+  },
+  {
+    "Id": "167c0d85-aade-4b9d-96af-92f4aa407469",
+    "EventName": "HistoryBattle",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 0.00292671046931636,
+    "AwayWinChance": 0.2973913305520392670449896695,
+    "DrawChance": 0.6996819589786443729550103305,
+    "EventStartDate": "2025-03-11T16:24:40",
+    "EventEndDate": "2025-04-11T00:00:00",
+    "EventSubscribers": [
+      "Example.com",
+      "http://localhost:5000/"
+    ],
+    "EventResult": "Canceled",
+    "Type": "Football"
+  },
+  {
+    "Id": "bca3a3c9-ea6d-465e-abc9-552cee1b90d2",
+    "EventName": "HistoryBattle",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 0.992494587119675,
+    "AwayWinChance": 0.0021925775050099137509429997,
+    "DrawChance": 0.0053128353753150862490570003,
+    "EventStartDate": "2025-03-11T17:17:02",
+    "EventEndDate": "2025-01-11T00:00:00",
+    "EventSubscribers": [],
+    "EventResult": "Canceled",
+    "Type": "Football"
+  },
+  {
+    "Id": "4d598da8-c094-4d65-8311-9a4f1bc65c41",
+    "EventName": "HistoryBattle",
+    "HomeTeam": "Arlan",
+    "AwayTeam": "Kairat",
+    "HomeWinChance": 0.124457358789283,
+    "AwayWinChance": 0.8015427532354940764414648404,
+    "DrawChance": 0.0739998879752229235585351596,
+    "EventStartDate": "2025-03-11T23:27:42",
+    "EventEndDate": "2025-01-11T00:00:00",
+    "EventSubscribers": [
+      "http://localhost:5000/"
+    ],
+    "EventResult": "Canceled",
+    "Type": "Football"
+  }
+]

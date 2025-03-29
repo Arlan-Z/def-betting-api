@@ -1,0 +1,10 @@
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Betting Event Maker.exe
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Database\CardsInfo.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Database\EventDetails.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Database\Events.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Betting Event Maker.dll
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Betting Event Maker.deps.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Betting Event Maker.runtimeconfig.json
+C:\Users\Arlan\Desktop\Проекты\Event Maker for Betting Websites\Betting Event Maker\obj\Release\net9.0\PubTmp\Out\Betting Event Maker.pdb
